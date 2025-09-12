@@ -23,12 +23,9 @@ One of my big goals is to become a **machine learning specialist** and explore h
 ---
 
 ## 📫 How to Reach Me
-- [Email](iphoseinn@gmail.com)
+
 - 📧 Email: iphoseinn@gmail.com
-- 📷 Instagram:  
-- ✈️ Telegram:  
-- 🐦 X (Twitter):  
-- 🔗 LinkedIn:  
+- ✈️ Telegram:  https://t.me/iphosein
 
 ---
 
