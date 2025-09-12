@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm currently learning **Python** and diving into the world of programming.  
 I already have experience with **PyQt5** and enjoy building desktop applications with clean, intuitive UIs.  
-One of my big goals is to become a **machine learning specialist** in the future.
+One of my big goals is to become a **machine learning specialist** and explore how AI can be used in creative and meaningful ways.
 
 ---
 
