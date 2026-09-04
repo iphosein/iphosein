@@ -35,11 +35,3 @@ A desktop application for retail management built with Python:
 * Improving API design and backend practices with FastAPI
 * Strengthening SQL database skills
 * Practicing Git workflows and Docker environment setup
-
----
-
-### 📫 Connect with Me
-
-* 📧 **Email:** [iphoseinn@gmail.com]
-* ✈️ **Telegram:** [https://t.me/iphosein]
-* 💼 **LinkedIn:** [www.linkedin.com/in/iphosein]
