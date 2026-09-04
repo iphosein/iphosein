@@ -1,83 +1,49 @@
 # 👋 Hi, I'm Hossein
 
-🚀 Python Backend Developer | 🖥️ Desktop App Engineer | 🧠 ML-Oriented Learner
+### 🚀 Computer Engineering Student & Python Developer
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile!  
-I'm a **Python developer** with hands-on experience building **real-world applications**, focusing on **backend systems** and **desktop software**.
-
-I’ve built a complete **Store Management System** using **FastAPI**, **SQLAlchemy**, **PostgreSQL**, **JWT authentication**, and a modern **PyQt5 desktop interface**.  
-My main interest lies in **clean architecture**, **business logic**, and writing code that reflects real production systems — not just tutorials.
-
-Alongside backend development, I’m actively preparing to move into **Machine Learning**, with a strong foundation in Python and software engineering principles.
+I am a Computer Engineering student focused on **Python development**. I build web APIs using **FastAPI** and desktop applications using **PyQt5**, while working with **SQL** databases to handle application data.
 
 ---
 
-## 🧠 Technical Skills
+### 🛠️ Technical Skills
 
-### 🔧 Backend Development
-- Python (Advanced)
-- FastAPI
-- SQLAlchemy ORM
-- RESTful API design
-- JWT Authentication & Authorization
-- Database design (PostgreSQL)
-- Alembic migrations
-
-### 🖥️ Desktop Applications
-- PyQt5
-- MVC / modular UI design
-- API-driven desktop clients
-- Dynamic layouts & reporting dashboards
-
-### 🛠 DevOps & Tools
-- Docker & Docker Compose
-- Git & GitHub
-- HTTP clients (httpx)
-- Linux & Windows development
+* **Programming:** Python
+* **Backend & API:** FastAPI, RESTful APIs, JWT Auth
+* **Databases:** SQL, PostgreSQL, SQLAlchemy ORM
+* **Desktop UI:** PyQt5
+* **Tools & Version Control:** Git, GitHub, Docker (Basics)
 
 ---
 
-## 🏗️ Featured Project
+### 🏗️ Featured Project
 
-### 🏪 Store Management System
-A full-stack desktop application for retail management featuring:
-- Secure authentication
-- Inventory & invoice system
-- Automatic discounts & stock control
-- Analytical reports with date filtering
-- Dockerized backend
+#### 🏪 [Store Management System](https://github.com/iphosein/store-management-system)
+A desktop application for retail management built with Python:
+* 🔒 **Authentication:** JWT-based user login system.
+* 📦 **Core Features:** Inventory tracking, discounts, and invoice generation.
+* 📊 **Dashboard:** Sales and stock reports using PyQt5.
+* 🐳 **Database & Deployment:** Integrated with PostgreSQL and running with Docker.
 
-🔗 Repository:  
-https://github.com/iphosein/store-management-system
+👉 [View Source Code](https://github.com/iphosein/store-management-system)
 
 ---
 
-## 🌱 Currently Focused On
-- Deepening backend architecture skills
-- Writing cleaner, more maintainable code
-- Preparing for **Machine Learning & AI** path
-- Improving system design & performance thinking
+### 🌱 Currently Learning
+
+* Improving API design and backend practices with FastAPI
+* Strengthening SQL database skills
+* Practicing Git workflows and Docker environment setup
 
 ---
 
-## 💬 Ask Me About
-- Python backend development
-- FastAPI & SQLAlchemy
-- PyQt5 desktop applications
-- Designing real-world projects
-- Learning programming the *right* way
+### 📫 Connect with Me
+
+* 📧 **Email:** [iphoseinn@gmail.com]
+* ✈️ **Telegram:** [https://t.me/iphosein]
+* 💼 **LinkedIn:** [www.linkedin.com/in/iphosein]
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: iphoseinn@gmail.com  
-- ✈️ Telegram: https://t.me/iphosein  
-
----
-
-## ⚡ Fun Fact
-I enjoy turning complex problems into clean solutions —  
-and I debug best with a cup of tea ☕😄
-
-Thanks for stopping by!  
-Feel free to explore my projects or connect with me 🚀
+⚡ *Fun Fact: I debug best with a good cup of tea ☕😄*
