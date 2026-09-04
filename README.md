@@ -43,3 +43,4 @@ A desktop application for retail management built with Python:
 * 📧 **Email:** [iphoseinn@gmail.com]
 * ✈️ **Telegram:** [https://t.me/iphosein]
 * 💼 **LinkedIn:** [www.linkedin.com/in/iphosein]
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iphosein)
