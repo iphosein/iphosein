@@ -12,7 +12,7 @@ I am a Computer Engineering student focused on **Python development**. I build w
 * **Programming:** Python
 * **Backend & API:** FastAPI, RESTful APIs, JWT Auth
 * **Databases:** SQL, PostgreSQL, SQLAlchemy ORM
-* **Desktop UI:** PyQt5
+* **GUI:** PyQt5
 * **Tools & Version Control:** Git, GitHub, Docker (Basics)
 
 ---
