@@ -43,7 +43,3 @@ A desktop application for retail management built with Python:
 * 📧 **Email:** [iphoseinn@gmail.com]
 * ✈️ **Telegram:** [https://t.me/iphosein]
 * 💼 **LinkedIn:** [www.linkedin.com/in/iphosein]
-
----
-
-⚡ *Fun Fact: I debug best with a good cup of tea ☕😄*
